@@ -1,0 +1,1 @@
+{"name":"Teacher Plan Wednesday","repository":"https://github.com/mgbilby8/teacher_plan_wednesday","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true},"ROLLBAR_ACCESS_TOKEN":{"required":true}}}
